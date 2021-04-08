@@ -1,4 +1,4 @@
-import react, { component } from 'react';
+import React from 'react';
 import FileUpload from './components/FileUpload';
 import './App.css';
 
